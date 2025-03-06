@@ -1,1 +1,3 @@
-# my_blog2
+# my_blog
+
+seoyeon kwon
